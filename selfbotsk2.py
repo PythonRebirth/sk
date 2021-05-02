@@ -76,8 +76,8 @@ staff = ["u9ad4b97f5bbdda51e970b708d7658c7e"]
 mid = dhenzaSelfbot.getProfile().mid
 Bots = [mid]
 AKU = [dhenzaSelfbot]
-5pvc7 = admin + owner + staff
-Team = owner + admin + Bots + staff
+"5pvc7" = admin + owner + staff
+"5pvc7"  = owner + admin + Bots + staff
 Setbot = codecs.open("setting.json","r","utf-8")
 Setmain = json.load(Setbot)
 
