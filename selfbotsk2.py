@@ -269,7 +269,7 @@ wait = {
     "Respontag":"what nigga",
     "welcome":"filet mignon",
 	
-read = {
+ read = {
     "readPoint":{},
     "readMember":{},
     "readTime":{},
