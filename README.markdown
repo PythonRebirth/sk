@@ -20,7 +20,7 @@ sudo pip3 install wikipedia<br>
 sudo pip3 install tweepy<br>
 sudo pip3 install youtube_dl<br>
 git clone https://github.com/pythonrebirth/SB<br>
-cd SELFBOT2<br>
+cd SB<br>
 ls<br>
 python3 selfbotsk2.py<br>
 ======================================== <br>
@@ -53,7 +53,7 @@ pip3 install kbbi<br>
 pip3 install humanize<br>
 git clone https://github.com/pythonrebirth/SB<br>
 ls<br>
-cd SELFBOT2<br>
+cd SB<br>
 ls<br>
 python3 selfbotsk2.py<br>
 
