@@ -268,6 +268,8 @@ wait = {
     "mention":"Spectral",
     "Respontag":"what nigga",
     "welcome":"filet mignon",
+}
+	
 	
  read = {
     "readPoint":{},
