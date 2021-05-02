@@ -889,8 +889,8 @@ def helpmedia():
     helpMessage3 += "│ " + " ├──────────────\n"
     helpMessage3 += "│ " + " ╰───• sʙ ʙʏ ©ᴅʜᴇɴᴢᴀ™ •────\n"
     helpMessage3 += "╰━────────────━ \n"
-    helpMessage3 += "https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw\n"
-    helpMessage3 += "https://youtu.be/iwZuig9flas"
+    helpMessage3 += "https://github.com/PythonRebirth/SB\n"
+    helpMessage3 += "Spect, Cynical, Predator"
     return helpMessage3    
 
 def bot(op):
