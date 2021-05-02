@@ -1481,9 +1481,9 @@ def bot(op):
                if msg.contentType == 16:
                   if msg.toType in (2,1,0):
                      try:
-                         mat = msg.contentMetadata["postEndUrl"].split('userMid=')[1].split('&postId=')
+                        mat = msg.contentMetadata["postEndUrl"].split('userMid=')[1].split('&postId=')
                          dhenzaSelfbot.likePost(mat[0], mat[1], 1003)
-                         dhenzaSelfbot.createComment(mat[0], mat[1], "ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\nspect\n\n\n\nᴄʀᴇᴀᴛᴏʀ:\nhttp://line.me/ti/p/~5pvc7\")
+                         dhenzaSelfbot.createComment(mat[0], mat[1], "ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\n™Spectral\n\n\n\nᴄʀᴇᴀᴛᴏʀ:\nhttp://line.me/ti/p/5pvc7\nɢɪᴛhᴜʙ:\ngithub.com/dhenza1415\nchanel ʏᴏᴜᴛᴜʙᴇ:\nhttps://www.youtube.com/channel/UCifQAleL6QngG9EqtYkFWJw/\n\nnew ᴄʜᴀɴᴇʟ:\nhttps://www.youtube.com/channel/UCifQAleL6QngG9EqtYkFWJw/")
                      except Exception as e:
                          dhenzaSelfbot.sendMessage(msg.to, str(e))  
                             
